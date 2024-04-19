@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema#",
+  "title": "DataBase",
+  "description": "A Database",
+  "type": "object",
+  "properties": {
+    "_Id": {
+      "description": "The unique identifier for a Database",
+      "type": "object"
+    },
+    "databaseName": {
+      "description": "Name of the DataBase",
+      "type": "string"
+    }
+  },
+  "required": [ "_Id", "databaseName" ]
+}

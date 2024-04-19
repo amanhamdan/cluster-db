@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Document",
+  "description": "A Document",
+  "type": "object",
+  "properties": {
+    "_Id": {
+      "description": "The unique identifier for a document",
+      "type": "integer"
+    },
+    "_body": {
+      "description": "object representation of data",
+      "type": "object"
+    }
+  },
+  "required": [ "_Id", "_body" ]
+}

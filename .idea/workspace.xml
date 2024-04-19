@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e5a74bb-9232-46ed-a188-d00dce3f89c4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HLVu5YJLBOuEgMfnh3HGMYzd4C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LEAGION/OneDrive/Desktop/NoSQLDB/btree4j-master/btree4j-master/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mohannadDB.ClusterDB.LRUCash" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LEAGION\OneDrive\Desktop\ATYPON final Project\ClusterDB\ClusterDB\ClusterDB\src\main\java\com\mohannadDB\ClusterDB" />
+      <recent name="C:\Users\LEAGION\OneDrive\Desktop\ATYPON final Project\ClusterDB\ClusterDB\ClusterDB\DatabaseUsers" />
+      <recent name="C:\Users\LEAGION\OneDrive\Desktop\ATYPON final Project\ClusterDB\ClusterDB\ClusterDB" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LEAGION\OneDrive\Desktop\ATYPON final Project\ClusterDB\ClusterDB\ClusterDB\Databases\StudentsDB\MarksCollection\indexes" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mohannadDB.ClusterDB.Collection" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mohannadDB.ClusterDB.schemaValidators" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClusterDbApplication">
+    <configuration name="ClusterDbApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mohannadDB.ClusterDB.ClusterDbApplication" />
+      <module name="ClusterDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohannadDB.ClusterDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClusterDbApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClusterDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohannadDB.ClusterDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mohannadDB.ClusterDB" />
+      <option name="MAIN_CLASS_NAME" value="com.mohannadDB.ClusterDB.ClusterDbApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClusterDbApplicationTests.SearchByProperty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClusterDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohannadDB.ClusterDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mohannadDB.ClusterDB" />
+      <option name="MAIN_CLASS_NAME" value="com.mohannadDB.ClusterDB.ClusterDbApplicationTests" />
+      <option name="METHOD_NAME" value="SearchByProperty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClusterDbApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClusterDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohannadDB.ClusterDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mohannadDB.ClusterDB" />
+      <option name="MAIN_CLASS_NAME" value="com.mohannadDB.ClusterDB.ClusterDbApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClusterDbApplicationTests.loadIndexFromDisk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClusterDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohannadDB.ClusterDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mohannadDB.ClusterDB" />
+      <option name="MAIN_CLASS_NAME" value="com.mohannadDB.ClusterDB.ClusterDbApplicationTests" />
+      <option name="METHOD_NAME" value="loadIndexFromDisk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClusterDbApplication" />
+        <item itemvalue="JUnit.ClusterDbApplicationTests.SearchByProperty" />
+        <item itemvalue="JUnit.ClusterDbApplicationTests" />
+        <item itemvalue="JUnit.ClusterDbApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.ClusterDbApplicationTests.loadIndexFromDisk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e5a74bb-9232-46ed-a188-d00dce3f89c4" name="Changes" comment="" />
+      <created>1668064573138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668064573138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mohannadDB/ClusterDB/Indexing/BTree1/BTree.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mohannadDB/ClusterDB/Indexing/BTree.java</url>
+          <line>257</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mohannadDB/ClusterDB/Document/DocumentService.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mohannadDB/ClusterDB/Document/DocumentService.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mohannadDB/ClusterDB/Collection/CollectionController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mohannadDB/ClusterDB/Collection/CollectionController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mohannadDB/ClusterDB/Collection/CollectionController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.google.gson.JsonIOException" package="com.google.gson" />
+          <option name="timeStamp" value="120" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mohannadDB/ClusterDB/Collection/CollectionController.java</url>
+          <line>49</line>
+          <properties class="com.mohannadDB.ClusterDB.Collection.CollectionController" method="searchByPropertyValue">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.mohannadDB.ClusterDB.Indexing.BTree1.BTree$Node" memberName="this$0" />
+        <PinnedItemInfo parentTag="com.mohannadDB.ClusterDB.Indexing.BTree$Node" memberName="children" />
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="b.root.key" />
+        <watch expression="((LinkedHashMap)fromMapper).entrySet().toArray()[0]" custom="java.util.LinkedHashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
